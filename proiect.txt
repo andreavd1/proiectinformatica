@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title></title>
+	</head>
+	<body>
+                <Body bgcolor=CornflowerBlue>
+<h1 align="center" style="color:Black">Avdeev Andrei</h1>
+		<h2>Familia mea</h2>
+			<img src="Viber.jpg" align="left">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3>"Oricine are nevoie de o casă în care să trăiască, dar o familie care te sprijină clădeşte cu adevărat un cămin" de Anthony Liccione</h3>	
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+		<h2>Despre mine</h2>
+			<p>Mă numesc Andrei și am 16 ani. Natal din Chișinău, învăț în clasa a 10-a. Unele activități ce îmi plac extrem de mult sunt: cititul,
+cântalul la instrumente muzicale, călătoriile în alte țări și să ascult muzică. Sunt o persoană activă, amabilă, predispusă la atitudine, 
+cu „ciudățenii”.</p><p style="color:red">Îmi ridic privirea mai ales la membrii familiei mele, în special la frații mei, ca figuri îndrumătoare în viață. Aspirațiile mele de cariera sunt să devin jurist.</p> 
+
+
+<h2>Hobby-urile mele</h2>
+<ol>
+<li>Practic fotbalul</li>
+<li>Iubesc jocurile video</li>
+<li>Meditez</li>
+<li>Cânt la acordeon și pian</li>
+<li>Învăț limbi noi</li>
+</ol>
+<h2>Filmele favorite</h2>
+<ul>
+<li>Sherlock Homes</li>
+<li>The Green Book</li>
+<li>Father</li>
+<li>Nobody</li>
+<li>Godfather</li>
+<li>Apocalypto</li>
+<li>The Green Book</li>
+			</ul>
+			<h2>Cele mai frumoase locuri vizitate</h2>
+			<table border="1"> 
+				<tr bgcolor=DarkCyan>
+					<th>Țara</th>
+					<th>Orașul(ele)</th>
+				</tr>
+				<tr bgcolor=DarkSlateBlue>
+					<td>Austria</td>
+					<td>Viena</td>
+					
+				</tr>
+				<tr bgcolor=DarkCyan>
+					<td>Spania</td>
+					<td>Barcelona</td>
+				</tr>
+				<tr bgcolor=DarkSlateBlue>
+					<td>Olanda</td>
+					<td>Amsterdam</td>
+				</tr>
+                                <tr bgcolor=DarkCyan>
+                                         <td>Germania </td>
+	                                 <td>Munchen;Berlin</td>
+                                </tr>
+                                <tr bgcolor=DarkSlateBlue>
+					<td>Belgia</td>
+					<td>Bruxelles</td>
+				</tr>
+                                <tr bgcolor=DarkCyan>
+					<td>Franța</td>
+					<td>Paris;Strasbourg</td>
+				</tr>
+		</table>
+
+<br>
+<h2>Membrii familiei</h2>
+<ul type=square>
+<li>Mama-Valentina</li>
+<li>Tata-Anatol</li>
+<li>Sora-Marina</li>
+<li>Fratele-Vitalie</li>
+</ul>
+
+
+<img src="god.jpg" style="position:absolute;
+float:right;
+right:780px;
+bottom:-245px;
+z-index:2;"
+height=230
+width=200>
+
+<img src="1.jpg" style="position:absolute;
+float:right;
+right:500px;
+bottom:-245px;
+z-index:2;"
+height=230
+width=200>
+
+<img src="2.jpg" style="position:absolute;
+float:right;
+right:220px;
+bottom:-245px;
+z-index:2;"
+height=230
+width=200>
+
+
+
+<img src="vienna.jpg" style="position:absolute;
+float:right;
+right:780px;
+bottom:-535px;
+z-index:2;"
+height=230
+width=200>
+
+<img src="amsterdam.jpg" style="position:absolute;
+float:right;
+right:500px;
+bottom:-535px;
+z-index:2;"
+height=230
+width=200>
+
+<img src="paris.jpg" style="position:absolute;
+float:right;
+right:220px;
+bottom:-535px;
+z-index:2;"
+height=230
+width=200>
+
+
+
+<img src="insta1.jfif" style="position:absolute;
+float:right;
+right:1150px;
+bottom:-795px;
+z-index:2;"
+height=87
+width=87>
+
+<br>
+<br>
+
+
+            <div id="header">
+			<a href="avdeevandr4@gmail.com">Gmail</a>
+			<p>or</p>
+			<a href="https://www.instagram.com/avdeev.andre1/">Instagram</a>
+		</div>
+	</body>
+</html>
